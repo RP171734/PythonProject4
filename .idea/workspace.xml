@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f4b29f2-830d-4615-93d6-c7c6aef8d194" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rohi_2/GitPush.py" beforeDir="false" afterPath="$PROJECT_DIR$/Rohi_2/GitPush.py" afterDir="false" />
+    <list default="true" id="0f4b29f2-830d-4615-93d6-c7c6aef8d194" name="Changes" comment="adding file 2">
+      <change afterPath="$PROJECT_DIR$/Rohi_2/sepandend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rohi_2/Newfile.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,15 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/RP171734/PythonProject4.git",
-    "accountId": "19aab389-f8ad-48d7-88ee-f9e095c330f1"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RP171734&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RP171734/PythonProject4.git&quot;,
+    &quot;accountId&quot;: &quot;19aab389-f8ad-48d7-88ee-f9e095c330f1&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2rOizP0v5G7j9nmJseEh5oxsaPd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,9 +48,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.GitPush.executor": "Run",
+    "Python.Newfile.executor": "Run",
+    "Python.sepandend.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -59,6 +73,28 @@
       <option name="presentableId" value="Default" />
       <updated>1736436783181</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding file">
+      <option name="closed" value="true" />
+      <created>1736437170009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736437170009</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding file 2">
+      <option name="closed" value="true" />
+      <created>1736437304233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736437304233</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding file" />
+    <MESSAGE value="adding file 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding file 2" />
   </component>
 </project>
